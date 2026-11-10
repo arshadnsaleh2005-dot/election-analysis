@@ -1,6 +1,6 @@
 # U.S. Elections Analysis (1976–2020)
 
-Analyzes U.S. Presidential and Senate election data using SQLite, pandas, and matplotlib. Built as the final project for CSC271H1.
+Analyzes U.S. Presidential and Senate election data using SQLite, pandas, and matplotlib.
 
 ## What it does
 - Loads and cleans MIT Election Lab presidential and Senate data
